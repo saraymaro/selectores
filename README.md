@@ -1,4 +1,4 @@
-# selectores
+# Selectores
 A partir del siguiente archivo realiza lo siguiente:
 1. Selecciona todos los elementos
 
