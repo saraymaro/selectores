@@ -1,4 +1,4 @@
-body{
+*{
     background-color: aqua;
 }
 
@@ -29,4 +29,25 @@ p{
 }
 class.title-2{
     background-color: coral;
+}
+[href*="127"]{
+    color: chocolate;
+}
+[href^="http"]{
+    font-size: 10px;
+}
+a, p, h1{
+    font-style: italic;
+}
+main>p{
+    background-color: darkseagreen;
+}
+h1 + p{
+    font-weight: 200;
+}
+h1 + *{
+    font-size: 25px;
+}
+main>*{
+    background-color: dodgerblue;
 }
