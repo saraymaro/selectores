@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+p{
+    color: navy;
+
+}
+#title-1{
+    background-color: blueviolet;
+}
+.bg-yellow{
+    color: blueviolet;
+}
+[id]{
+    color: blanchedalmond;
+}
+[id=title-1]{
+    font-size: 4rem;
+}
+[href="https://www.yahoo.com"]{
+    color: brown;
+}
+.title-2{
+    color: crimson;
+}
+[href$=".com"]{
+   color: chartreuse;
+}
+class.title-2{
+    background-color: coral;
+}
