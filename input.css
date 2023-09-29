@@ -1,0 +1,7 @@
+#edad:valid {
+    border: 2px solid green;
+}
+
+#edad:invalid {
+    border: 2px solid red;
+}

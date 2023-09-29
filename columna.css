@@ -1,0 +1,21 @@
+html{
+    background-color: lightsalmon;
+}
+h1{
+    color: darkred;
+}
+p{
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: red;
+    
+}
+h1:hover{
+    color: orangered;
+}
+p::selection{
+    background-color: chartreuse;
+    color: orangered;
+}
